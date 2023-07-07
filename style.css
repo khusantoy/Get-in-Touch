@@ -1,0 +1,26 @@
+body {
+    font-family: sans-serif;
+    height: 100vh;
+}
+
+.box {
+    width: 55%;
+    height: 55%;
+    display: flex;
+    justify-content: center;
+}
+
+.box1 {
+    width: 55%;
+    height: 100%;
+    border: 1px solid;
+}
+
+.box2 {
+    width: 45%;
+    height: 100%;
+    border: 1px solid;
+}
+.inp {
+    display: block;
+}
